@@ -8,14 +8,11 @@
 > No industry can sustain itself if it doesn’t master the art of cultivating new talent—an art that requires close ties between practitioners and educators. [(Walter 2009)](http://alistapart.com/article/brighter-horizons-for-web-education)
 
 ## Introduction
-As a experiment we will be running short problem solving session within a 1 hour class for our 3rd year (Level 6) students as part of the delivery of a unit called Web Design for Industry SWD600 which aims to get students "work ready".
+We have a brand-new module that goes out to all third-year students in the computing subject group at Southampton Solent University corses covered: Software Engineering, Digital Design and web Development, Computing, Network Engineering and cyber security
 
 ## Rational
 Communication, teamwork and problem solving are central skills for resilience in an ever changing work place. 
 
-> Universities need to develop business-outreach into a core function that has influence over curriculum design. [(Jo Johnson MP Minister of State for Universities, Science, Research and Innovation 2015)](https://www.gov.uk/government/speeches/teaching-at-the-heart-of-the-system)
-
-<!-- Need Jo Johnson quote TEF ref and inman Janner --> 
 
 ## What sort of problem? 
 Ideally it will be a mini problem that can be handled in a short space of time (30min). It could be a marketing problem, branding, user experience, project management, interface design, design concept etc.
